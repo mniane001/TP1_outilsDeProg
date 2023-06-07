@@ -1,0 +1,37 @@
+{
+    "chance_win": {
+        "Désavantage fort": 19.2307692308,
+        "Désavantage faible": 36.5707434053,
+        "Pas d’avantage": 51.6268980477,
+        "Avantage faible": 66.47597254,
+        "Avantage fort": 85.6774193548
+    },
+    "blue_structure": {
+        "Désavantage fort": -0.6809116809,
+        "Désavantage faible": -0.3645083933,
+        "Pas d’avantage": -0.2255965293,
+        "Avantage faible": -0.1453089245,
+        "Avantage fort": -0.0593548387
+    },
+    "red_structure": {
+        "Désavantage fort": -0.0954415954,
+        "Désavantage faible": -0.1270983213,
+        "Pas d’avantage": -0.2472885033,
+        "Avantage faible": -0.3661327231,
+        "Avantage fort": -0.7522580645
+    },
+    "blue_monster": {
+        "Désavantage fort": 0.6296296296,
+        "Désavantage faible": 0.7925659472,
+        "Pas d’avantage": 0.9240780911,
+        "Avantage faible": 1.1006864989,
+        "Avantage fort": 1.4322580645
+    },
+    "red_monster": {
+        "Désavantage fort": 1.4259259259,
+        "Désavantage faible": 1.1834532374,
+        "Pas d’avantage": 0.9696312364,
+        "Avantage faible": 0.7768878719,
+        "Avantage fort": 0.6425806452
+    }
+}
